@@ -1,0 +1,7 @@
+<ol>
+   <li data-ng-repeat='item in items'>
+      <input type='text' data-ng-model='item' />
+      <button data-ng-click='remove($index)'>&times;</button>
+   </li>
+</ol>
+<input type=button value='+' data-ng-click='add()' />
