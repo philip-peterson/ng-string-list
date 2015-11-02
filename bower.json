@@ -1,0 +1,26 @@
+{
+  "name": "ng-string-list",
+  "description": "Angular directive for an editable list of strings",
+  "main": "dist/stringList.min.js",
+  "authors": [
+    "Philip Peterson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "string",
+    "list",
+    "sequence",
+    "array",
+    "editable",
+    "set",
+    "ordered"
+  ],
+  "homepage": "https://github.com/philip-peterson/ng-string-list",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
