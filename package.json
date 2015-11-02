@@ -26,9 +26,7 @@
   "homepage": "https://github.com/philip-peterson/ng-string-list#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-minify-html": "^1.0.4",
     "gulp-rename": "^1.2.2",
-    "gulp-sequence": "^0.4.1",
     "gulp-uglify": "^1.4.2"
   }
 }
